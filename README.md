@@ -1,5 +1,5 @@
 # key-recorder
-    A simple key recorder written in python. It records the keys pressed and sends them to a server. The server can then be used to send the keys to another computer.
+A simple key recorder written in python. It records the keys pressed and sends them to a server. The server can then be used to send the keys to another computer.
 
 # Why tho? Why make dis?
     This is just a side project to learn Vue.js and how websockets work.
