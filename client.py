@@ -5,9 +5,7 @@ from keyRecConf import HOST, PORT
 
 # -- Keyboard Listener -- #
 def on_action(event, webSocket):
-    if event.name == "esc":
-        return False
-    
+   
     if event.event_type == KEY_DOWN:
         on_press(event.name, webSocket)
 
